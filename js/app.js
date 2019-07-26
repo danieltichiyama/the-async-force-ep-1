@@ -91,9 +91,9 @@ function rReqListener() {
       sReq.send();
     }
 
-    let randomH3 = document.createElement("h3");
-    randomH3.innerHTML = "Planets";
-    film.appendChild(randomH3);
+    let superAwesomeAndYetStillRandomH3 = document.createElement("h3");
+    superAwesomeAndYetStillRandomH3.innerHTML = "Planets";
+    film.appendChild(superAwesomeAndYetStillRandomH3);
     film.appendChild(filmPlanets);
 
     filmList.appendChild(film);
